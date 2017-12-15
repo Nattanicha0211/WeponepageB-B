@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+h4{
+    font-family: Kanit;
+    font-size: 36px;
+}
+p{
+    font-family: kanit;
+    font-size: 20px;
+}
+div.header{
+    width: 100%;
+    margin-left: 25px;
+    margin-right: 25px; 
+}
+img.banner{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 1300px;
+    height: 550px;
+}
+div.bgbell{
+    background-color: #f2f2f2;
+    width: 1300px;
+    height: 500px;
+    margin: 0 25px 0 25px;
+    float: left;
+}
+img.pbell{
+    width: 260px;
+    height: 370px;
+    margin-left: 200px;
+    margin-top: 70px;
+    float: left;
+}
+
+div.divbell2{
+    height: 200px;
+    float: left;
+    margin-top: 140px;
+    margin-left: 100px;
+
+}
+/*div.picscoll{
+    width: 200px;
+    height: 40px;
+
+}*/
+
+div.beast{
+    background-color: cornsilk;
+    width: 1300px;
+    height: 500px;
+    margin: 0 25px 0 25px;
+    float: right;
+}
+img.thebeast{
+    width: 260px;
+    height: 370px;
+    float: right;
+    margin-top:70px;
+    margin-right:200px;  
+}
+.beatstheader{
+    float: left;
+    margin-top: 140px;
+    margin-left:200px; 
+}
+    
+
+
+
+
+
+
+
+
